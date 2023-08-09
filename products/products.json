@@ -1,0 +1,55 @@
+{
+    "products": [
+        {
+            "name": "Televisão Smart",
+            "description": "Uma TV inteligente de última geração.",
+            "price": "999.99",
+            "id": "smarttv",
+            "image": "https://imgs.search.brave.com/2wWTvjX6qRoyR5oL5g3cSftPfXvFl5PV_TKCAJBhscE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/YWlyYmVhbS50di93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/Mi9ibGFjay1zY3Jl/ZW4tc2Ftc3VuZy10/di0xMDI0eDU5OC5q/cGc"
+        },
+        {
+            "name": "Iphone 14 Pro Max",
+            "description": "Um poderoso celular disponível em várias cores.",
+            "price": "9499.00",
+            "id": "iphone14promax",
+            "image": "https://imgs.search.brave.com/I5Ejg47_nS3ZOICFTII-dEP0MBU2nOA7CyayilZ9sDk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wbGFu/b3NjZWx1bGFyLmNs/YXJvLmNvbS5ici9t/ZWRpYXMvMTgzOTEt/MC16ZXJvLTMwMFd4/MzAwSC1wcm9kdWN0/Q2FyZD9jb250ZXh0/PWJXRnpkR1Z5Zkds/dFlXZGxjM3cyT1Rj/ME5IeHBiV0ZuWlM5/d2JtZDhhR05rTDJo/bVppODVNalkzT1RZ/ME1ERTROekU0THpF/NE16a3hYekJmZW1W/eWIxOHpNREJYZURN/d01FaGZjSEp2WkhW/amRFTmhjbVI4TkdJ/M05EZGpNV0l5WVdZ/d09ERXpaVFF3WVRZ/M1l6UmhPVGMzTlRj/Mk5HRmlaV0ppWXpC/a09UaGxOV1l3WVRN/NE9Ea3dZek0zTVRK/bFpqWXdZbUV6TkE"
+        },
+        {
+            "name": "Flipper Zero",
+            "description": "Uma simples maquininha (ou não)",
+            "price": "5500.00",
+            "id": "fzero",
+            "image": "https://imgs.search.brave.com/tceCN2ymM2o8MbK4R30bcQitK8sNAw1jDvoxlo8OfO8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUV9OUF82/ODgwNTQtTUxCNTI5/NjU4MjQ4MTlfMTIy/MDIyLU8ud2VicA"
+        },
+        {
+            "name": "Bala fini morango",
+            "description": "Bala Fini morango",
+            "price": "8.99",
+            "id": "finimorango",
+            "image": "https://imgs.search.brave.com/7emHRuuSjg1F5HR_UGR03DYfLT-O6gnVIKgMqwvkUSE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxa3RIZ1JKRjJM/LmpwZw"
+        },
+         {
+            "name": "Kinder Ovo",
+            "description": "Bem maneiro!",
+            "price": "14.00",
+            "id": "kinderovo",
+            "image": "https://imgs.search.brave.com/n4GDNBNeVNF5O0Ko6Cz3HIOexUlZzObVHN4VX-_udO4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jb250/ZXVkby5pbWd1b2wu/Y29tLmJyL2Mvbm90/aWNpYXMvNDYvMjAy/Mi8wNC8wNS9raW5k/ZXItMTY0OTE3MjI1/ODY5N192Ml80NTB4/NDUwLmpwZw"
+        },
+        {
+           "name": "BMW 320i",
+           "description": "Um carro veloz e ágil! Branquinho.",
+           "price": "120000.00",
+           "id": "bmw320i",
+           "image": "https://imgs.search.brave.com/C0zYZvVzhLkx9bWOg6MAyGYvpTdxTqjHWybUQCnPf-w/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/b2x4LmNvbS5ici9p/bWFnZXMvMDIvMDI0/MzIwMTYwMTExNzMz/LmpwZw"
+        },
+        {
+            "name": "Balinha de caramelo",
+            "description": "Muito boa",
+            "price": "1.20",
+            "id": "bcaramelo",
+            "image": "https://imgs.search.brave.com/aTc9J9ihWiz5bWCpH0LCUwYV4bx4mdOQWbRq6wOOA7w/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxTDV5UGl5OFFM/LmpwZw"
+         }
+        
+        
+    ]
+}

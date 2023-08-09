@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+.payment-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.payment-details {
+    margin-bottom: 20px;
+}
+
+.qrcode-container {
+    text-align: center;
+}
+
+.qrcode-container img {
+    max-width: 300px;
+    height: auto;
+}
+
+/* You can add more custom styles as needed */

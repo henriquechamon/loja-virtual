@@ -19,7 +19,7 @@ Create accounts, manage user´s order´s and many other features.
 
 ### 1. Install <a href='https://www.php.net/downloads.php'>PHP</a>
 
-### 2. Open the project´s folder and in terminal, execute:
+### 2. Open the project´s folder in terminal, execute:
 ```
 cd LojaV
 ```
